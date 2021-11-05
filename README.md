@@ -33,12 +33,12 @@ In this lab you will complete two walkthrough rooms and several CTF challenges. 
 1. Lab 5.1: [NMap](https://tryhackme.com/jr/furthernmap2z)
 2. Lab 5.2: [Web Enumeration](https://tryhackme.com/jr/webenumerationv2lv9h)
 3. Lab 5.3:
-- 1. [CTF 1](https://tryhackme.com/jr/alleghenyctf1so)
-- 2. [CTF 2](https://tryhackme.com/jr/alleghenyctf2y8)
-- 3. [CTF 3](https://tryhackme.com/jr/alleghenyctf3pg)
-- 4. [CTF 4](https://tryhackme.com/jr/alleghenyctf4cx)
-- 5. [CTF 5](https://tryhackme.com/jr/alleghenyctf5us)
-- 6. [CTF 6](https://tryhackme.com/jr/alleghenyctf6aj)
+- 5.3.1. [CTF 1](https://tryhackme.com/jr/alleghenyctf1so)
+- 5.3.2. [CTF 2](https://tryhackme.com/jr/alleghenyctf2y8)
+- 5.3.3. [CTF 3](https://tryhackme.com/jr/alleghenyctf3pg)
+- 5.3.4. [CTF 4](https://tryhackme.com/jr/alleghenyctf4cx)
+- 5.3.5. [CTF 5](https://tryhackme.com/jr/alleghenyctf5us)
+- 5.3.6. [CTF 6](https://tryhackme.com/jr/alleghenyctf6aj)
 
 ## Required Deliverables
 
