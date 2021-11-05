@@ -16,7 +16,7 @@
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the assignment for Laboratory 5 assignment in Computer Science 403.
 
-This laboratory assignment invites you to work individually tho solve challenges related to web and network security on TryHackMe. You are also responsible for writing a detailed reflection, stored in the file `reflection.md`. This is a Markdown file that must adhere to the standards described in the [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/).
+This laboratory assignment invites you to work individually and in a team of two or three to solve challenges related to web and network security on TryHackMe. You are also responsible for collaboratively writing a detailed reflection, stored in the file `reflection.md`. This is a Markdown file that must adhere to the standards described in the [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/).
 
 ## Objectives
 
@@ -28,7 +28,7 @@ Throughout the completion of this project you must adhere to the [community guid
 
 ## Assignment Specification
 
-In this lab you will complete two walkthrough rooms and several CTF challenges. Specifically you are invited to complete at least two CTF rooms. You are then invited to reflect on your experiences in a Markdown file given in this repository.
+In this lab you will complete two walkthrough rooms and several CTF challenges. Although, you each must answer questions in the TryHackMe rooms, you should work on finding those answers with your partner. After you complete the two walkthrough rooms, you are invited to select at least **two** CTF challenges from the list given below. You are then invited to reflect on your experiences in a Markdown file given in this repository.
 
 1. Lab 5.1:
 2. Lab 5.2: 
