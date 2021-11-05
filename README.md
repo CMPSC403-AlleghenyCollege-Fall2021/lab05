@@ -28,12 +28,17 @@ Throughout the completion of this project you must adhere to the [community guid
 
 ## Assignment Specification
 
-In this lab you will complete two walkthrough rooms and several CTF challenges. Although, you each must answer questions in the TryHackMe rooms, you should work on finding those answers with your partner. After you complete the two walkthrough rooms, you are invited to select at least **two** CTF challenges from the list given below. You are then invited to reflect on your experiences in a Markdown file given in this repository.
+In this lab you will complete two walkthrough rooms and several CTF challenges. Although, you each must answer questions in the TryHackMe rooms, you should work on finding those answers with your partner. After you complete the two walkthrough rooms, you are invited to select at least **two** CTF challenges from the list given below. You are then invited to reflect on your experiences collaboratively in a Markdown file given in this repository.
 
-1. Lab 5.1:
-2. Lab 5.2: 
+1. Lab 5.1: [NMap](https://tryhackme.com/jr/furthernmap2z)
+2. Lab 5.2: [Web Enumeration](https://tryhackme.com/jr/webenumerationv2lv9h)
 3. Lab 5.3:
-- 
+- 1. [CTF 1](https://tryhackme.com/jr/alleghenyctf1so)
+- 2. [CTF 2](https://tryhackme.com/jr/alleghenyctf2y8)
+- 3. [CTF 3](https://tryhackme.com/jr/alleghenyctf3pg)
+- 4. [CTF 4](https://tryhackme.com/jr/alleghenyctf4cx)
+- 5. [CTF 5](https://tryhackme.com/jr/alleghenyctf5us)
+- 6. [CTF 6](https://tryhackme.com/jr/alleghenyctf6aj)
 
 ## Required Deliverables
 
@@ -41,7 +46,7 @@ This assignment invites you to submit the following deliverables.
 
 1. Lab 5.1 on TryHackMe.
 2. Lab 5.2 on TryHackMe.
-3. Lab 5.3 on TryHackMe.
+3. Lab 5.3 on TryHackMe (two CTFs) and screenshots of the machine-side of the screen showing completion of tasks.
 4. Reflection document submitted via your lab05 repository.
 
 ## Assignment Assessment
