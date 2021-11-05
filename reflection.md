@@ -1,4 +1,4 @@
-# Reflection by YOURNAME
+# Reflection by TEAM NAMES
 
 ## Lab 5.3
 
@@ -21,3 +21,8 @@ Discuss any challenges you have encountered during the work on this lab.
 
 TODO:
 Highlight the main learning take-aways from this lab.
+
+## Team Work
+
+TODO:
+Describe how you worked as a team during this lab.
